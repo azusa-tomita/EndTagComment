@@ -19,10 +19,10 @@ SublimeTextで閉じコメントを追加します。
 <!--/div#hoge.fuga.foo--></div>
 ```
 
-`ctrl+e`,`ctrl+i` でidのみを出力
-`ctrl+e`,`ctrl+c` でclassのみを出力
-`ctrl+e`,`ctrl+e` でidとclassを出力
-`ctrl+e`,`ctrl+t` でtagとidとclassを出力
+`ctrl+e`,`ctrl+i` でidのみを出力  
+`ctrl+e`,`ctrl+c` でclassのみを出力  
+`ctrl+e`,`ctrl+e` でidとclassを出力  
+`ctrl+e`,`ctrl+t` でtagとidとclassを出力  
 
 `ctrl+e`,`ctrl+s` でコメント内のテキストの前後の空白をトグル
 
@@ -36,9 +36,10 @@ SublimeTextで閉じコメントを追加します。
 <!--/hoge.fuga-->  <->  <!--/.hoge.fuga-->
 ```
 
-参考
-https://gist.github.com/kosei27/734448
-https://gist.github.com/hokaccha/411828
+参考  
+
+(https://gist.github.com/kosei27/734448)  
+(https://gist.github.com/hokaccha/411828)  
 
 
 Installing
