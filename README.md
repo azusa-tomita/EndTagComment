@@ -37,9 +37,8 @@ SublimeTextで閉じコメントを追加します。
 ```
 
 参考  
-
-(https://gist.github.com/kosei27/734448)  
-(https://gist.github.com/hokaccha/411828)  
+https://gist.github.com/kosei27/734448  　
+https://gist.github.com/hokaccha/411828  
 
 
 Installing
